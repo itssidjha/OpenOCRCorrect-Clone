@@ -73,7 +73,7 @@ OS: Ubuntu 20.04.2 LTS x64bit
 
 RAM: 8 GB
 
-CPU: AMD RYZEN 3<sup>th</sup> gen
+CPU: AMD RYZEN 3<sup>rd</sup> gen
 
 QT Version: 5.12.8 
 
